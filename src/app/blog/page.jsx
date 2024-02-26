@@ -2,7 +2,7 @@
 
 const BlogPage = () => {
   return (
-    <div>Bloc</div>
+    <div></div>
   )
 }
 
