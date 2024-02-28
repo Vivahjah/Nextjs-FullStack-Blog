@@ -2,7 +2,7 @@
 
 const BlogPage = () => {
   return (
-    <div></div>
+    <div>fhjfg</div>
   )
 }
 
